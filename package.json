@@ -1,0 +1,24 @@
+{
+  "name": "spark-ar-server",
+  "version": "1.0.0",
+  "description": "Web Service for Spark AR Masterclass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevC-Amman/spark-ar-server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "server"
+  ],
+  "author": "Ahmad Santarissy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevC-Amman/spark-ar-server/issues"
+  },
+  "homepage": "https://github.com/DevC-Amman/spark-ar-server#readme"
+}
